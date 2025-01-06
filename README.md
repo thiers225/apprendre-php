@@ -2,9 +2,9 @@
 Bienvenue dans **Apprendre PHP**, un dépôt conçu pour aider les débutants à apprendre PHP à travers des exemples pratiques et des exercices.
 
 ## Contenu
-1. [Introduction au PHP](introduction/)
-   - [Présentation de PHP et sa syntaxe](introduction/presentation.md)
-   - [Variables en PHP](introduction/variables.php)
+1. [Introduction au PHP](01-introduction/)
+   - [Présentation de PHP et sa syntaxe](01-introduction/presentation.md)
+   - [Variables en PHP](01-introduction/variables.php)
 
 ## Comment utiliser ce dépôt ?
 1. Clonez ce dépôt sur votre machine locale :
